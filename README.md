@@ -245,7 +245,7 @@ Here we reproduce Figure 3 from [the original paper](https://arxiv.org/abs/1508.
 ## Setup
 #### Dependencies:
 * [tensorflow](https://github.com/tensorflow/tensorflow)
-* [opencv](http://opencv.org/downloads.html)
+* [opencv](https://opencv.org/releases/)
 
 #### Optional (but recommended) dependencies:
 * [CUDA](https://developer.nvidia.com/cuda-downloads) 7.5+
